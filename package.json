@@ -1,0 +1,19 @@
+{
+  "name": "platter-node",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoValadares/platter-node.git"
+  },
+  "author": "Leonardo Valadares, Lucas Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoValadares/platter-node/issues"
+  },
+  "homepage": "https://github.com/LeoValadares/platter-node#readme"
+}
